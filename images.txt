@@ -1,3 +1,4 @@
+postgres
 #redis:latest
 #mysql:latest
 #kafka
