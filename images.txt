@@ -1,8 +1,8 @@
-RocketMQ
+#RocketMQ
 #postgres
 #redis:latest
 #mysql:latest
-#kafka
+kafka
 #openjdk
 #keycloak
 #tomcat
