@@ -1,4 +1,4 @@
-rocketmq
+RocketMQ
 #postgres
 #redis:latest
 #mysql:latest
