@@ -1,4 +1,5 @@
-postgres
+rocketmq
+#postgres
 #redis:latest
 #mysql:latest
 #kafka
